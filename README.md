@@ -15,8 +15,8 @@ The goal of this project is to practice working with **HTML structure and page l
 odin-recipes/
 ├── index.html
 ├── recipes/
-│   ├── recipe1.html
-│   ├── recipe2.html
-│   └── recipe3.html
+│   ├── cake.html
+│   ├── lasagna.html
+│   └── paella.html
 └── README.md
 
